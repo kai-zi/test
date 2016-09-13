@@ -1,18 +1,18 @@
 {
-	"name": "houdunwang/test",
+	"name": "kaizi000/test",
 	"description": "test",
 	"type": "project",
 	"keywords": [
 		"test",
-		"houdunwang",
+		"leveal",
 		"hdphp"
 	],
-	"homepage": "http://hdphp.com/",
+	"homepage": "http://baidu.com/",
 	"license": "Apache-2.0",
 	"authors": [
 		{
-		"name": "向军",
-		"email": "2300071698@qq.com"
+		"name": "李鹏凯",
+		"email": "2042039700@qq.com"
 		}
 	],
 	"minimum-stability": "dev",
